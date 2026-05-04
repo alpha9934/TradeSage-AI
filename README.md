@@ -4,7 +4,12 @@
 
 
 
-
+![Python](https://img.shields.io/badge/Python-3.11+-blue?style=flat-square&logo=python)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic-purple?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-LLaMA_3.3_70B-orange?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-Vector_DB-teal?style=flat-square&logo=pinecone)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green?style=flat-square&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-red?style=flat-square&logo=streamlit)
 
 ---
 
