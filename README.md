@@ -2,6 +2,9 @@
 
 > An AI-powered investment research assistant trained on the world's most influential finance and trading literature. Ask questions, get insights, and make informed investment decisions — all through a conversational interface.
 
+
+![TradeSage-AI Banner](assets/banner.png)
+
 ---
 
 ## 🧠 What Is This?
