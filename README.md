@@ -1,9 +1,9 @@
-<img width="1440" height="1384" alt="image" src="https://github.com/user-attachments/assets/2c803d33-934f-40ca-bdcc-fcda8b03ef00" /># 📈 Agentic Investment & Finance Assistant
+# 📈 Agentic Investment & Finance Assistant
 
 > An AI-powered investment research assistant trained on the world's most influential finance and trading literature. Ask questions, get insights, and make informed investment decisions — all through a conversational interface.
 
 
-<img width="1440" height="1384" alt="image" src="https://github.com/user-attachments/assets/acacf4c8-dff3-4577-a9cf-ed432c1955ea" />
+
 
 
 ---
